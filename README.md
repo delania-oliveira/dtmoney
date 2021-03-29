@@ -22,6 +22,3 @@ yarn
 yarn start
 
 ``` 
-
-## Licença
-[MIT](https://github.com/sihann/dtmoney/blob/main/LICENSE)
