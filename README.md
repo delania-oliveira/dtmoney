@@ -13,7 +13,7 @@ Aplicação front-end web completa utilizando conceitos e ferramentas importante
 ## Como Instalar
 ```bash
 # clone o repositório
-git clone https://github.com/sihann/dtmoney.git
+git clone https://github.com/delania-oliveira/dtmoney.git
 
 # instale as dependencias
 yarn
